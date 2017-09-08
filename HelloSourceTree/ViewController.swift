@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     let a = master
     
     let b = MrBig
+    let d = dog
     let e = eat
     
 
