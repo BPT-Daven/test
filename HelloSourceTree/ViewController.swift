@@ -10,6 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    let a = master
     
     let b = MrBig
     let c = cat
